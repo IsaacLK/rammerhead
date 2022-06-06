@@ -27,7 +27,7 @@ The proxy allows users to create a "session". When they access their session, th
 Quick run on Replit:
 <br>
 
-[![Run on Repl.it](https://repl.it/badge/github/binary-person/rammerhead)](https://repl.it/github/binary-person/rammerhead)
+[![Run on Repl.it](https://repl.it/badge/github/isaaclk/rammerhead)](https://repl.it/github/isaaclk/rammerhead)
 
 Rammerhead requires you to have at least **node v16** to be installed. After that is installed, clone the repo, then run `npm install` and `npm run build`.
 
